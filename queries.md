@@ -1,3 +1,4 @@
+```sql
 select * from category;
 select * from customers;
 select * from inventory;
@@ -572,3 +573,4 @@ END $$
 
 -- Change the delimiter back to the standard semicolon
 DELIMITER ;
+```
